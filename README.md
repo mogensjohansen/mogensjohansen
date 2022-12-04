@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogensjohansen
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning sql - python - github .
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anythng beginners level.
 - 📫 How to reach me ...
 
 <!---
